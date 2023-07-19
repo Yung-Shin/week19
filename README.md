@@ -1,4 +1,4 @@
-## Protressive Web Text Editor Application
+## Progressive Web Text Editor Application
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)
     ](https://opensource.org/licenses/MIT)
 
